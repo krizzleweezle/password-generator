@@ -17,7 +17,7 @@ body{
     width: 100%;
     margin-top: 50px;
     margin-bottom: 30px;
-    background: #fff;
+    background: #b96f6f;
     color: #333;
     display: flex;
     align-items: center;
@@ -30,8 +30,8 @@ body{
     font-size: 45px;
 }
 .container h1 span{
-    color: #019f55;
-    border-bottom: 4px solid #019f55;
+    color: #cf86c4;
+    border-bottom: 4px solid #dc9eea;
     padding-bottom: 7px;
 }
 .display img{
@@ -50,7 +50,7 @@ body{
 .container button{
     border: 0;
     outline: 0;
-    background: #019f55;
+    background: #bf609f;
     color: #fff;
     font-size: 22px;
     font-weight: 300;
