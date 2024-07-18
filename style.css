@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background: #002339;
-    color: #fff;
+    background: #422541;
+    color: #eae6eb;
 }
 .container{
     margin: 12%;
@@ -17,7 +17,7 @@ body{
     width: 100%;
     margin-top: 50px;
     margin-bottom: 30px;
-    background: #b96f6f;
+    background: #9f5a9c;
     color: #333;
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@ body{
 }
 .container h1 span{
     color: #cf86c4;
-    border-bottom: 4px solid #dc9eea;
+    border-bottom: 4px solid #ededed;
     padding-bottom: 7px;
 }
 .display img{
@@ -50,8 +50,8 @@ body{
 .container button{
     border: 0;
     outline: 0;
-    background: #bf609f;
-    color: #fff;
+    background: #936784;
+    color: #ffedfa;
     font-size: 22px;
     font-weight: 300;
     display: flex;
